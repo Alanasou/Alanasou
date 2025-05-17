@@ -2,15 +2,10 @@
 
 ###
 
-<p align="left">❥ Eu sou a Alana! Curto desenvolver projetos com interfaces bonitas e aprender novas tecnologias.</p>
+<p align="left">❥ Eu sou a Alana!</p>
 
 ###
 
-<h3 align="left">Sobre</h3>
-
-###
-
-<p align="left">/**<br>   * Criando bugs desde 2023. <br>/</p>
 
 ###
 
