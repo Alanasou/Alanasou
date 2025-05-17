@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">/**<br>   * Criando bugs desde 2023. <br>   * Codando sem café!<br>   * Objetivo: Transformar ideias em soluções criativas.<br>*/</p>
+<p align="left">/**<br>   * Criando bugs desde 2023. <br>/</p>
 
 ###
 
